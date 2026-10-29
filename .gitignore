@@ -1,0 +1,11 @@
+# Entornos y archivos locales
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.env
+.env.*
+Thumbs.db
+.DS_Store

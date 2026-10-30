@@ -7,7 +7,7 @@ El notebook descubre los enlaces del directorio de OSHWA, visita las fichas de l
 ## Integrantes
 
 - Mihail Onisor Muresan (confirmar el orden oficial de los apellidos).
-- Xènia (apellidos pendientes).
+- Xènia Tena Pérez
 
 ## Fuente y repositorio
 
